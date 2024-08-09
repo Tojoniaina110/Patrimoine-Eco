@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "libelle": "Espece",
+      "Valeur": 450000,
+      "DateDebut": "2024-05-13",
+      "type": "Entre"
+    
+    },
+    {
+      "libelle":"CompteEpargne",
+      "Valeur":600000,
+      "DateDebut":"2024-05-13",
+      "type":"Entre"
+      
+    },
+
+    {
+      "libelle":"CompteCourant",
+      "Valeur":2000000,
+      "DateDebut":"2024-05-13",
+      "type":"Entre"
+    },
+
+    {
+      "libelle":"Iphone 11 pro max",
+      "Valeur":1800000,
+      "DateDebut":"2021-10-16",
+      "TauxAmmortissement":5,
+      "type":"Materiel"
+    },
+
+    {
+      "libelle":"Vetements",
+      "Valeur":350000,
+      "DateDebut":"2024-01-01",
+      "TauxAmmortissement":25,
+      "type":"Materiel"
+    },
+
+    {
+      "libelle":"Train de vie",
+      "Valeur":400000,
+      "DateDebut":"2024-05-13",
+      "type":"Sortie"
+    }
+    
+
+
+  ]
+}
